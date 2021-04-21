@@ -1,7 +1,7 @@
 django==1.11.28
 django-environ==0.4.1
 psycopg2==2.7
-requests==2.13.0
+requests==2.20.0
 pyjwt==1.4.2
 colorlog==2.10.0
 djangorestframework==3.11.2
