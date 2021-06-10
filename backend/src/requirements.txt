@@ -1,4 +1,4 @@
-django==1.11.28
+django==2.2.24
 django-environ==0.4.1
 psycopg2==2.7
 requests==2.13.0
